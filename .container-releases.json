@@ -1,0 +1,28 @@
+[
+  {
+    "version": "3.24",
+    "branch": "3.24-stable",
+    "bootstrap": "docker.io/library/alpine:3.24",
+    "aliases": [
+      "latest"
+    ]
+  },
+  {
+    "version": "3.23",
+    "branch": "3.23-stable",
+    "bootstrap": "docker.io/library/alpine:3.23",
+    "aliases": []
+  },
+  {
+    "version": "3.22",
+    "branch": "3.22-stable",
+    "bootstrap": "docker.io/library/alpine:3.22",
+    "aliases": []
+  },
+  {
+    "version": "3.21",
+    "branch": "3.21-stable",
+    "bootstrap": "docker.io/library/alpine:3.21",
+    "aliases": []
+  }
+]
