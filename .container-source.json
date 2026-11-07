@@ -1,0 +1,7 @@
+{
+  "schema": 1,
+  "distribution": "Alpine",
+  "upstream": "https://github.com/alpinelinux/aports.git",
+  "ref": "3.23-stable",
+  "revision": "05aa3ed4f5c290664f160222b2ad5ad4532b8193"
+}
